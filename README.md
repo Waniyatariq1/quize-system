@@ -1,1 +1,1 @@
-"# sharz-quize-system" 
+"# quize-system" 
